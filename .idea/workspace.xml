@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="aa0787e4-3433-42b7-bc23-68383297bb57" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/lab_2_mis/lib/models/user.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_2_mis/lib/screens/favourite-meals-screen.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_2_mis/lib/screens/login-screen.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_2_mis/lib/screens/notification-test-screen.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_2_mis/lib/screens/profile-screen.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_2_mis/lib/screens/register-screen.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_2_mis/lib/service/auth-service.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_2_mis/lib/service/favourites-service.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_2_mis/lib/service/notification-service.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_2_mis/screenshots_lab3/added_meal_to_favourites.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_2_mis/screenshots_lab3/favourite_meals_screen.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_2_mis/screenshots_lab3/firebase_project_appcheck.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_2_mis/screenshots_lab3/firebase_project_auth_enabled.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_2_mis/screenshots_lab3/firebase_project_overview.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_2_mis/screenshots_lab3/login_screen.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_2_mis/screenshots_lab3/meal_list_upgraded.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_2_mis/screenshots_lab3/notification.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_2_mis/screenshots_lab3/notifications_settings_screen.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_2_mis/screenshots_lab3/profile_screen.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_2_mis/android/app/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/lab_2_mis/android/app/build.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_2_mis/android/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/lab_2_mis/android/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_2_mis/android/app/src/main/kotlin/com/example/lab_2_mis/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/lab_2_mis/android/app/src/main/kotlin/com/example/lab_2_mis/MainActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_2_mis/android/settings.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/lab_2_mis/android/settings.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_2_mis/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lab_2_mis/lib/main.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_2_mis/lib/models/category.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lab_2_mis/lib/models/category.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_2_mis/lib/models/meal.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lab_2_mis/lib/models/meal.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_2_mis/lib/screens/home-screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lab_2_mis/lib/screens/home-screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_2_mis/lib/widgets/meal-card.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lab_2_mis/lib/widgets/meal-card.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_2_mis/linux/flutter/generated_plugin_registrant.cc" beforeDir="false" afterPath="$PROJECT_DIR$/lab_2_mis/linux/flutter/generated_plugin_registrant.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_2_mis/linux/flutter/generated_plugins.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/lab_2_mis/linux/flutter/generated_plugins.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_2_mis/macos/Flutter/GeneratedPluginRegistrant.swift" beforeDir="false" afterPath="$PROJECT_DIR$/lab_2_mis/macos/Flutter/GeneratedPluginRegistrant.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_2_mis/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/lab_2_mis/pubspec.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_2_mis/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/lab_2_mis/pubspec.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_2_mis/windows/flutter/generated_plugin_registrant.cc" beforeDir="false" afterPath="$PROJECT_DIR$/lab_2_mis/windows/flutter/generated_plugin_registrant.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_2_mis/windows/flutter/generated_plugins.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/lab_2_mis/windows/flutter/generated_plugins.cmake" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="36WqjHmKRXKBB51jQ0UHXg8mPiA" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Flutter.Run flutter.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.readMode.enableVisualFormatting&quot;: &quot;true&quot;,
+    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;io.flutter.reload.alreadyRun&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Artan/Desktop/finki.notes4/MIS/LABS_MIS&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;DeclarativeFocus&quot;,
+    &quot;show.migrate.to.gradle.popup&quot;: &quot;false&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Artan\Desktop\finki.notes4\MIS\LABS_MIS\lab_2_mis" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Run flutter" type="FlutterRunConfigurationType" factoryName="Flutter">
+      <option name="filePath" value="$PROJECT_DIR$/lab_2_mis/lib/main.dart" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aa0787e4-3433-42b7-bc23-68383297bb57" name="Changes" comment="" />
+      <created>1765132808991</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1765132808991</updated>
+    </task>
+    <servers />
+  </component>
+</project>

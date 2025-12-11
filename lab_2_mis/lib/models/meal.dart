@@ -13,7 +13,6 @@ class Ingredient {
 }
 
 class Meal {
-  // for
   final int id;
   final String name;
   final String thumbnail;
